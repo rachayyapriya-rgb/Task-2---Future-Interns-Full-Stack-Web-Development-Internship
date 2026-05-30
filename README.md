@@ -7,7 +7,8 @@ This project was developed as part of the Future Interns Full Stack Web Developm
 ## Project Overview
 
 The project demonstrates the practical implementation of front-end web development technologies, focusing on usability, responsiveness, and modern design principles.
-Live Demo
+
+##Live Demo
 https://claude.ai/public/artifacts/934be28c-c495-4d62-820c-135063c6f53a
 
 ## Features
